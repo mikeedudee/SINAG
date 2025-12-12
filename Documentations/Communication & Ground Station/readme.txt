@@ -1,0 +1,1 @@
+This folder is solely dedicated to documentation only—pictures, videos, etc. When uploading, you must set dedicated folders for them with the following format: Name_Day_Month_Year_TimeTaken. Each component/part must be in separate folders (e.g., CanSat or Rocket).

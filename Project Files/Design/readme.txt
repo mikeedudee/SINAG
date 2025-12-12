@@ -1,1 +1,0 @@
-For the design of the rocket, CanSat, etc., mostly pictures are used, but the method of fabrication for each component—such as PCB layout, wiring, or visuals —can also be included. However, these must be in separate folders.

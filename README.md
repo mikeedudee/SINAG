@@ -21,3 +21,6 @@ For permission requests, partnership inquiries, or licensing information, please
 * **Organization:** (TEAM NAME)
 * **Location:** Philippines
 * **Focus:** Aerospace Engineering
+
+# GENERAL PROJECT TIMELINE  
+![schedule](https://github.com/user-attachments/assets/85e826c3-38b1-4b1b-9848-a149d95b90c4)

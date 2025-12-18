@@ -25,7 +25,7 @@ For permission requests, partnership inquiries, or licensing information, please
 * **Repo Maintainer:** Francis Mike John Camogao
 
 ## ORGANIZATIONAL STRUCTURE
-![Organizational Structure](https://github.com/user-attachments/assets/d4aaef36-83f2-4688-8902-bad5b41c877f)
+![Organizational Structure](https://github.com/user-attachments/assets/1506294b-9303-4ba1-b540-4b3e5de23ed4)
 
 ## PROJECT GENERAL TIMELINE  
 <img width="3795" height="6250" alt="Timeline pdf" src="https://github.com/user-attachments/assets/1b34d91e-9b96-448d-aafb-01bd151cc1e0" />

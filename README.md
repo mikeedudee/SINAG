@@ -1,7 +1,7 @@
 <h1 align="center">Sinag</h1>
 
 <p align="center">
-  <i>The team name represents the dawn of a new era in Philippine aerospace. It implies energy, transparency, and a bright future for the community.</i>
+  <i>The dawn of a new era in Philippine aerospace. Sinag directly implies energy, transparency, and a bright future for the community.</i>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 **Sinag** is an aerospace development project focused on [Insert Brief Mission Objective]. This repository serves as the central hub for the project management, e.g., system architecture, design documentation, and integrated software modules, etc.
 
 ## ☀️ Etymology & Significance
-**"Sinag"** is the Tagalog word for **"Ray of Light"** or **"Glow."** The rays of the sun in the Philippine flag represent the provinces rising in revolt/progress. The name represents the clarity of vision and the spark of innovation that drives our team's engineering efforts toward the advancement of local aerospace technology.
+**"Sinag"** is the Tagalog word for **"Ray of Light"** or **"Glow."** The rays of the sun in the Philippine flag represent the provinces rising in revolt/progress. The team name embodies the clarity of vision and the spark of innovation that drive our team's engineering efforts toward advancing local aerospace technology.
 
 ---
 

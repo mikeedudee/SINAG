@@ -45,7 +45,7 @@
 The team is divided into specialized divisions to ensure efficient project management.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1506294b-9303-4ba1-b540-4b3e5de23ed4" alt="Organizational Structure" width="800">
+  <img src="https://github.com/user-attachments/assets/4cb51819-c1a5-4266-a431-c7e0ffa34b2e" alt="Organizational Structure" width="800">
 </p>
 
 ---
@@ -58,6 +58,7 @@ Below is the strategic roadmap for the project development cycles.
 </p>
 
 ---
+
 
 ## ⚖️ Legal & Copyright Notice
 

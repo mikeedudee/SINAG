@@ -21,6 +21,7 @@ For permission requests, partnership inquiries, or licensing information, please
 * **Organization:** (TEAM NAME)
 * **Location:** Philippines
 * **Focus:** Aerospace Engineering
+* **Repo Maintainer:** Francis Mike John Camogao
 
 # GENERAL PROJECT TIMELINE  
-![schedule](https://github.com/user-attachments/assets/85e826c3-38b1-4b1b-9848-a149d95b90c4)
+<img width="3795" height="6250" alt="Timeline pdf" src="https://github.com/user-attachments/assets/1b34d91e-9b96-448d-aafb-01bd151cc1e0" />

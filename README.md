@@ -63,7 +63,7 @@ Below is the strategic roadmap for the project development cycles.
 
 **⚠️ STRICTLY PROPRIETARY AND CONFIDENTIAL**
 
-**Copyright © 2025-2026 Sinag. All Rights Reserved.**
+**Copyright © 2025 Sinag. All Rights Reserved.**
 
 This repository, including all code, designs, schematics, documentation, and associated assets, is the exclusive intellectual property of **Sinag**.
 

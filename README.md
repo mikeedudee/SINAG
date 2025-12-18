@@ -24,5 +24,8 @@ For permission requests, partnership inquiries, or licensing information, please
 * **Focus:** Aerospace Engineering
 * **Repo Maintainer:** Francis Mike John Camogao
 
+## ORGANIZATIONAL STRUCTURE
+![Organizational Structure](https://github.com/user-attachments/assets/1fc88451-a5d3-4842-950d-1316c8f75802)
+
 ## PROJECT GENERAL TIMELINE  
 <img width="3795" height="6250" alt="Timeline pdf" src="https://github.com/user-attachments/assets/1b34d91e-9b96-448d-aafb-01bd151cc1e0" />

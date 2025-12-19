@@ -1,7 +1,7 @@
 <h1 align="center">Sinag</h1>
 
 <p align="center">
-  <i>Sinag directly implies energy, transparency, and a bright future for the community.</i>
+  <i>Directly implies energy, transparency, and a bright future for the community.</i>
 </p>
 
 <p align="center">

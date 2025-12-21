@@ -54,7 +54,10 @@ The team is divided into specialized divisions to ensure efficient project manag
 Below is the strategic roadmap for the project development cycles.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b34d91e-9b96-448d-aafb-01bd151cc1e0" alt="Timeline" width="700">
+  <img src="https://github.com/user-attachments/assets/d9315068-6485-4d81-a32a-75e8a3c64b90" alt="Timeline" width="700">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c03b8db-c611-44aa-a836-73bddfbe4d44" alt="Timeline" width="700">
 </p>
 
 ---

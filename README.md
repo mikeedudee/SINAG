@@ -33,7 +33,7 @@
 </p>
 
 > [!NOTE]
-> **Team Name Status:** _Team name is currently provisional and subject to final revision._
+> **Project Status:** _WORK ON PROGRESS AS OF DECEMBER 2025._
 
 ---
 

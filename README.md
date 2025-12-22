@@ -83,7 +83,7 @@ This repository, including all code, designs, schematics, documentation, and ass
 
 For permission requests, partnership inquiries, or licensing information, please contact the repository owners directly.
 
-* **Organization:** Sinag
+* **Team:** Sinag
 * **Location:** Philippines 🇵🇭
 * **Focus:** Aerospace Engineering
 * **Repo Maintainer:** [Francis Mike John Camogao](https://github.com/mikeedudee)

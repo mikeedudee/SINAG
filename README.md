@@ -2,8 +2,6 @@
   <img width="8800" height="4800" src="https://github.com/user-attachments/assets/4e71c5e9-274d-4e36-bf45-8ad240efc7f3" alt="Hiraya Logo Expanded">
 </p>
 
-<h1 align="center">Hiraya</h1>
-
 <h1 align="center">Sinag</h1>
 
 <p align="center">

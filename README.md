@@ -91,3 +91,8 @@ For permission requests, partnership inquiries, or licensing information, please
 * **Location:** Philippines 🇵🇭
 * **Focus:** Aerospace Engineering
 * **Repo Maintainer:** [Francis Mike John Camogao](https://github.com/mikeedudee)
+* **Repo Contributors:**
+  - [Francine May Labrador](https://github.com/franceInMay)
+  - [Joevic Torrecampo](https://github.com/Cubc4)
+  - [Joannah Marie Marinog](https://github.com/JoanNAH7)
+  - [Archie Henolos](https://github.com/Arch-eh)

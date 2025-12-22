@@ -5,10 +5,6 @@
 <h1 align="center">Sinag</h1>
 
 <p align="center">
-  <i>Directly implies energy, transparency, and a bright future for the community.</i>
-</p>
-
-<p align="center">
   <a href="#-about-the-project">About</a> •
   <a href="#-etymology--significance">Etymology</a> •
   <a href="#-organizational-structure">Structure</a> •

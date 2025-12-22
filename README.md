@@ -2,7 +2,7 @@
   <img width="8800" height="4800" src="https://github.com/user-attachments/assets/4e71c5e9-274d-4e36-bf45-8ad240efc7f3" alt="Hiraya Logo Expanded">
 </p>
 
-<h1 align="center">Sinag</h1>
+<h1 align="center">SINAG</h1>
 
 <p align="center">
   <a href="#-about-the-project">About</a> •
@@ -34,7 +34,7 @@
 ---
 
 ## 🚀 About the Project
-**Sinag** is an aerospace development project focused on payload architecture that consists of three interconnected missions: 1) Weather monitoring payload that collects data on the atmosphere and the environment; 2) Store-and-forward communication payload that uses LoRa technology to demonstrate efficient low-power data transmission; 3) The LEO Radiation Dosimetry Payload, which measures radiation exposure. These payloads are integrated into a single nanosatellite platform to demonstrate efficient subsystem coordination while maintaining compliance with standard CubeSat form factor and systems engineering constraints. 
+**SINAG** is an aerospace development project focused on payload architecture that consists of three interconnected missions: 1) Weather monitoring payload that collects data on the atmosphere and the environment; 2) Store-and-forward communication payload that uses LoRa technology to demonstrate efficient low-power data transmission; 3) The LEO Radiation Dosimetry Payload, which measures radiation exposure. These payloads are integrated into a single nanosatellite platform to demonstrate efficient subsystem coordination while maintaining compliance with standard CubeSat form factor and systems engineering constraints. 
 
 This repository serves as the central hub for the project management, e.g., system architecture, design documentation, and integrated software modules, etc.
 
@@ -79,9 +79,9 @@ Below is the strategic roadmap for the project development cycles.
 
 **⚠️ STRICTLY PROPRIETARY AND CONFIDENTIAL**
 
-**Copyright © 2025 Sinag. All Rights Reserved.**
+**Copyright © 2025 SINAG. All Rights Reserved.**
 
-This repository, including all code, designs, schematics, documentation, and associated assets, is the exclusive intellectual property of **Sinag**.
+This repository, including all code, designs, schematics, documentation, and associated assets, is the exclusive intellectual property of **SINAG**.
 
 1. **No Unlicensed Use:** You may not copy, reproduce, distribute, publish, display, perform, modify, create derivative works, transmit, or in any way exploit any such content.
 2. **Commercial & Educational Usage:** Any usage of this material requires **express written permission** from the project owners.
@@ -95,7 +95,7 @@ This repository, including all code, designs, schematics, documentation, and ass
 
 For permission requests, partnership inquiries, or licensing information, please contact the repository owners directly.
 
-* **Team:** Sinag
+* **Team:** SINAG
 * **Location:** Philippines 🇵🇭
 * **Focus:** Aerospace Engineering
 * **Repo Maintainer:** [Francis Mike John Camogao](https://github.com/mikeedudee)

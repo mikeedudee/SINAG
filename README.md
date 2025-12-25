@@ -32,7 +32,7 @@
 > **Project Status:** _WORK ON PROGRESS AS OF DECEMBER 2025._
 
 > [!IMPORTANT]
-> This project is in development and may include some breaking changes. To avoid unexpected issues, specifically in coding, you must do a 'pull request' first so we can check for compatibility and changes before merging into the main branch. The 'main' branch only serves as the final integrated products. If you wish for your code to be reviewed, submit/create a discussion or issue.
+> This project is in development and may include some breaking changes. To avoid unexpected issues, specifically in coding, you must do a 'pull request' first so we can check for compatibility and changes before merging into the main branch. The 'main' branch only serves as the final place for integrating new features or changes. If you wish for your code to be reviewed, submit/create a discussion or issue.
 
 ---
 

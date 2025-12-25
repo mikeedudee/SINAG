@@ -38,12 +38,12 @@
 
 ---
 
-## 🚀 About the Project
+## About the Project
 **SINAG** is an aerospace development project focused on payload architecture that consists of three interconnected missions: **1) Weather monitoring payload that collects data on the atmosphere and the environment; 2) Store-and-forward communication payload that uses LoRa technology to demonstrate efficient low-power data transmission; 3) The LEO Radiation Dosimetry Payload, which measures radiation exposure**. These payloads are integrated into a single nanosatellite platform to demonstrate efficient subsystem coordination while maintaining compliance with standard CubeSat form factor and systems engineering constraints. 
 
 This repository serves as the central hub for the project management, e.g., system architecture, design documentation, and integrated software modules, etc.
 
-## ☀️ Etymology & Significance
+## Etymology & Significance
 **"Sinag"** is the Tagalog word for **"Ray of Light"** or **"Glow."** The rays of the sun in the Philippine flag represent the provinces rising in revolt/progress. The team name embodies the clarity of vision and the spark of innovation that drive our team's engineering efforts toward advancing local aerospace technology.
 
 ### Technical Designation
@@ -55,7 +55,7 @@ This repository serves as the central hub for the project management, e.g., syst
 
 ---
 
-## 👥 Organizational Structure
+## Organizational Structure
 The team is divided into specialized divisions to ensure efficient project management.
 
 <p align="center">
@@ -64,7 +64,7 @@ The team is divided into specialized divisions to ensure efficient project manag
 
 ---
 
-## 📅 Project General Timeline
+## Project General Timeline
 Below is the strategic roadmap for the project development cycles.
 
 <p align="center">
@@ -96,7 +96,7 @@ This repository, including all code, designs, schematics, documentation, and ass
 
 ---
 
-## 📞 Contact
+## Contact
 
 For permission requests, partnership inquiries, or licensing information, please contact the repository owners directly.
 

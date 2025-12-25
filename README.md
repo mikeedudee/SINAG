@@ -31,6 +31,9 @@
 > [!NOTE]
 > **Project Status:** _WORK ON PROGRESS AS OF DECEMBER 2025._
 
+> [!IMPORTANT]
+> This project is in development and may include some breaking changes. To avoid unexpected issues, specifically in coding, you must do a 'pull request' first so we can check for compatibility and changes before merging into the main branch. The 'main' branch only serves as the final integrated products. If you wish for your code to be reviewed, submit/create a discussion or issue.
+
 ---
 
 ## 🚀 About the Project
@@ -104,3 +107,13 @@ For permission requests, partnership inquiries, or licensing information, please
   - [Joevic Torrecampo](https://github.com/Cubc4)
   - [Joannah Marie Marinog](https://github.com/JoanNAH7)
   - [Archie Henolos](https://github.com/Arch-eh)
+
+## Pull Requests
+1. Fork the repository on GitHub.
+2. Create a feature branch from main.
+3. Make your changes, including tests and documentation updates.
+4. Ensure tests and prek hooks pass.
+5. Commit your changes and push to your fork.
+6. Open a pull request against the main branch of jlowin/fastmcp.
+
+Please open an issue or discussion for questions or suggestions before starting significant work!

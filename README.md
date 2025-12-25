@@ -39,7 +39,7 @@
 ---
 
 ## About the Project
-**SINAG** is an aerospace development project focused on payload architecture that consists of three interconnected missions: **1) Weather monitoring payload that collects data on the atmosphere and the environment; 2) Store-and-forward communication payload that uses LoRa technology to demonstrate efficient low-power data transmission; 3) The LEO Radiation Dosimetry Payload, which measures radiation exposure**. These payloads are integrated into a single nanosatellite platform to demonstrate efficient subsystem coordination while maintaining compliance with standard CubeSat form factor and systems engineering constraints. 
+**SINAG** is an aerospace undergraduate development project focused on payload architecture that consists of three interconnected missions: **1) Weather monitoring payload that collects data on the atmosphere and the environment; 2) Store-and-forward communication payload that uses LoRa technology to demonstrate efficient low-power data transmission; 3) The LEO Radiation Dosimetry Payload, which measures radiation exposure**. These payloads are integrated into a single nanosatellite platform to demonstrate efficient subsystem coordination while maintaining compliance with standard CubeSat form factor and systems engineering constraints. 
 
 This repository serves as the central hub for the project management, e.g., system architecture, design documentation, and integrated software modules, etc.
 

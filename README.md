@@ -113,8 +113,8 @@ For permission requests, partnership inquiries, or licensing information, please
 ## Pull Requests
 1. Fork the repository on GitHub.
 2. Create a feature branch from main.
-3. Make your changes, including tests and documentation updates.
-4. Ensure tests and prek hooks pass.
+3. Make your changes, including tests and documentation updates (e.g., changelogs).
+4. Ensure tests and documents are final.
 5. Commit your changes and push to your fork.
 6. Open a pull request against the main branch of jlowin/fastmcp.
 

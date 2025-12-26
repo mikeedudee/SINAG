@@ -33,7 +33,7 @@
 
 > [!IMPORTANT]
 > This project is in development and may include some breaking changes. To avoid unexpected issues, specifically in coding, you should first ALWAYS create a 'pull request' so we can review it for compatibility and changes before merging it into the main branch. The 'main' branch only serves as the final place for integrating new features or changes. This is to ensure the security and safety of the "good" code and file changes, as well as the cleanliness, preventing potential issues in the future. If you wish for your code to be reviewed for bugs or in need of assistance, submit a discussion topic or issue.
-
+>
 > _How to 'Pull Request' instructions are at the bottom of this page._
 
 ---

@@ -5,13 +5,13 @@
 <h1 align="center">SINAG</h1>
 
 <p align="center">
-  <a href="#-about-the-project">About</a> •
-  <a href="#-etymology--significance">Etymology</a> •
-  <a href="#-organizational-structure">Structure</a> •
-  <a href="#-project-general-timeline">Timeline</a> •
-  <a href="#-legal--copyright-notice">Legal</a>
-  <a href="#-contact">Contact</a>
-  <a href="#-pull-requests">Pull Requests</a>
+  <a href="#about-the-project">About</a> •
+  <a href="#etymology--significance">Etymology</a> •
+  <a href="#organizational-structure">Structure</a> •
+  <a href="#project-general-timeline">Timeline</a> •
+  <a href="#legal--copyright-notice">Legal</a> •
+  <a href="#contact">Contact</a> •
+  <a href="#pull-requests">Pull Requests</a>
 </p>
 
 <p align="center">
@@ -34,26 +34,39 @@
 > **Project Status:** _WORK IN PROGRESS AS OF DECEMBER 2025._
 
 > [!IMPORTANT]
-> This project is in development and may include some breaking changes. To avoid unexpected issues, specifically in coding, you should first ALWAYS create a 'pull request' so we can review it for compatibility and changes before merging it into the main branch. The 'main' branch only serves as the final place for integrating new features or changes. This is to ensure the security and safety of the "good" code and file changes, as well as the cleanliness, preventing potential issues in the future. If you wish for your code to be reviewed for bugs or in need of assistance, submit a discussion topic or issue.
+> **Safety Critical Warning:**
+> This project is in development and may include breaking changes. To avoid unexpected issues, specifically in coding:
+> 1. **ALWAYS** create a 'pull request' so we can review it for compatibility before merging.
+> 2. The 'main' branch serves as the final integration point for "clean" code.
+> 3. If you need code review or assistance, submit a discussion topic or issue.
 >
-> _How to 'Pull Request' instructions are at the bottom of this page._
+> _See 'Pull Request' instructions at the bottom of this page._
 
 ---
 
 ## About the Project
-**SINAG** is an aerospace undergraduate development project focused on payload architecture that consists of three interconnected missions: **1) Weather monitoring payload that collects data on the atmosphere and the environment; 2) Store-and-forward communication payload that uses LoRa technology to demonstrate efficient low-power data transmission; 3) The LEO Radiation Dosimetry Payload, which measures radiation exposure**. These payloads are integrated into a single nanosatellite platform to demonstrate efficient subsystem coordination while maintaining compliance with standard CubeSat form factor and systems engineering constraints. 
+**SINAG** is an aerospace undergraduate development project focused on payload architecture. The system integrates three interconnected missions into a single nanosatellite platform, adhering to standard CubeSat form factors and systems engineering constraints.
 
-This repository serves as the central hub for the project management, e.g., system architecture, design documentation, and integrated software modules, etc.
+### 🛰️ Mission Payload Configuration
+1. **Weather Monitoring Payload:** Collects real-time atmospheric and environmental data.
+2. **Store-and-Forward Communication:** Utilizes LoRa technology to demonstrate efficient, low-power data transmission.
+3. **LEO Radiation Dosimetry:** Measures radiation exposure levels in Low Earth Orbit conditions.
+
+This repository serves as the central hub for project management, system architecture, design documentation, and integrated software modules.
+
+---
 
 ## Etymology & Significance
-**"Sinag"** is the Tagalog word for **"Ray of Light"** or **"Glow."** The rays of the sun in the Philippine flag represent the provinces rising in revolt/progress. The team name embodies the clarity of vision and the spark of innovation that drive our team's engineering efforts toward advancing local aerospace technology.
+**"Sinag"** is the Tagalog word for **"Ray of Light"** or **"Glow."** The rays of the sun in the Philippine flag represent the provinces rising in progress. The name embodies the clarity of vision and the spark of innovation that drives our team's engineering efforts toward advancing local aerospace technology.
 
 ### Technical Designation
-* **S** — Student-led 
-* **I** — Integrated 
-* **N** — Nanosatellite for 
-* **A** — Advancement and
-* **G** — Guidance
+| Letter | Representation |
+| :--- | :--- |
+| **S** | **Student-led** |
+| **I** | **Integrated** |
+| **N** | **Nanosatellite for** |
+| **A** | **Advancement and** |
+| **G** | **Guidance** |
 
 ---
 
@@ -70,17 +83,14 @@ The team is divided into specialized divisions to ensure efficient project manag
 Below is the strategic roadmap for the project development cycles.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2474325c-94e0-4b50-b780-08748b70fd25" alt="Timeline" width="700">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/57d95e78-d970-4800-81e7-fdc95b15060a" alt="Timeline" width="700">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a55a188a-4681-4e94-b451-ade19e2f3101" alt="Timeline" width="700">
+  <img src="https://github.com/user-attachments/assets/2474325c-94e0-4b50-b780-08748b70fd25" alt="Timeline Part 1" width="800">
+  <br /><br />
+  <img src="https://github.com/user-attachments/assets/57d95e78-d970-4800-81e7-fdc95b15060a" alt="Timeline Part 2" width="800">
+  <br /><br />
+  <img src="https://github.com/user-attachments/assets/a55a188a-4681-4e94-b451-ade19e2f3101" alt="Timeline Part 3" width="800">
 </p>
 
 ---
-
 
 ## ⚖️ Legal & Copyright Notice
 
@@ -106,21 +116,27 @@ For permission requests, partnership inquiries, or licensing information, please
 * **Location:** Philippines 🇵🇭
 * **Focus:** Aerospace Engineering
 * **Repo Maintainer:** [Francis Mike John Camogao](https://github.com/mikeedudee)
-* **Repo Contributors:**
-  - [Francine May Labrador](https://github.com/franceInMay)
-  - [Joevic Torrecampo](https://github.com/Cubc4)
-  - [Joannah Marie Marinog](https://github.com/JoanNAH7)
-  - [Archie Henolos](https://github.com/Arch-eh)
-  - [Hasley Angel Barlizo](https://github.com/wiwoley)
-  - [Reeven Nino Bugwat](https://github.com/rehvin-yui)
-  - [Godwin Galisa](https://github.com/goodeibear0420)
+
+### 👥 Repo Collaborators
+* [Francis Mike John Camogao](https://github.com/mikeedudee)
+* [Francine May Labrador](https://github.com/franceInMay)
+* [Joevic Torrecampo](https://github.com/Cubc4)
+* [Joannah Marie Marinog](https://github.com/JoanNAH7)
+* [Archie Henolos](https://github.com/Arch-eh)
+* [Hasley Angel Barlizo](https://github.com/wiwoley)
+* [Reeven Nino Bugwat](https://github.com/rehvin-yui)
+* [Godwin Galisa](https://github.com/goodeibear0420)
+
+---
 
 ## Pull Requests
-1. Fork the repository on GitHub.
-2. Create a feature branch from main.
-3. Make your changes, including tests and documentation updates (e.g., changelogs).
-4. Ensure tests and documents are final.
-5. Commit your changes and push to your fork.
-6. Open a pull request against the main branch of mikeedudee/SINAG.
+To maintain the integrity of the codebase:
 
-Please open an issue or discussion for questions or suggestions before starting significant work!
+1. **Fork** the repository on GitHub.
+2. **Create** a feature branch from `main`.
+3. **Make** your changes, including tests and documentation updates (e.g., changelogs).
+4. **Ensure** tests and documents are final.
+5. **Commit** your changes and push to your fork.
+6. **Open** a pull request against the `main` branch of `mikeedudee/SINAG`.
+
+Please open an issue or discussion for questions or suggestions before starting significant work.

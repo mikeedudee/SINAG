@@ -10,6 +10,8 @@
   <a href="#-organizational-structure">Structure</a> •
   <a href="#-project-general-timeline">Timeline</a> •
   <a href="#-legal--copyright-notice">Legal</a>
+  <a href="#-contact">Contact</a>
+  <a href="#-pull-requests">Pull Requests</a>
 </p>
 
 <p align="center">

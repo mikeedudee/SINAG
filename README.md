@@ -110,6 +110,7 @@ For permission requests, partnership inquiries, or licensing information, please
   - [Joannah Marie Marinog](https://github.com/JoanNAH7)
   - [Archie Henolos](https://github.com/Arch-eh)
   - [Hasley Angel Barlizo](https://github.com/wiwoley)
+  - [Reeven Nino Bugwat](https://github.com/rehvin-yui)
 
 ## Pull Requests
 1. Fork the repository on GitHub.

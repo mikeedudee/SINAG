@@ -109,6 +109,7 @@ For permission requests, partnership inquiries, or licensing information, please
   - [Joevic Torrecampo](https://github.com/Cubc4)
   - [Joannah Marie Marinog](https://github.com/JoanNAH7)
   - [Archie Henolos](https://github.com/Arch-eh)
+  - [Hasley Angel Barlizo](https://github.com/wiwoley)
 
 ## Pull Requests
 1. Fork the repository on GitHub.

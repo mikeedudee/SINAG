@@ -111,6 +111,7 @@ For permission requests, partnership inquiries, or licensing information, please
   - [Archie Henolos](https://github.com/Arch-eh)
   - [Hasley Angel Barlizo](https://github.com/wiwoley)
   - [Reeven Nino Bugwat](https://github.com/rehvin-yui)
+  - [Godwin Galisa](https://github.com/goodeibear0420)
 
 ## Pull Requests
 1. Fork the repository on GitHub.

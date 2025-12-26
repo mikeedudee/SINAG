@@ -34,11 +34,12 @@
 > **Project Status:** _WORK IN PROGRESS AS OF DECEMBER 2025._
 
 > [!IMPORTANT]
-> **Safety Critical Warning:**
-> This project is in development and may include breaking changes. To avoid unexpected issues, specifically in coding:
-> 1. **ALWAYS** create a 'pull request' so we can review it for compatibility before merging.
-> 2. The 'main' branch serves as the final integration point for "clean" code.
-> 3. If you need code review or assistance, submit a discussion topic or issue.
+> **Configuration Control & Contribution Protocol:**
+> This project is in active development and subject to breaking changes. To maintain system integrity across all domains—**Software (Code), Hardware (CAD, PCB/Schematics), and Documentation**—you must **ALWAYS** create a 'Pull Request' (PR) for any modification.
+>
+> 1.  **Main Branch Protocol:** The `main` branch is the designated "Single Source of Truth." It is reserved strictly for verified, stable, and integrated versions of the project.
+> 2.  **Review Process:** All PRs undergo compatibility review to prevent conflicts in mechanical fit, electrical connections, or software logic before merging.
+> 3.  **Assistance:** If you require a design review, debugging assistance, or validation of a new model/schematic, please submit a **Discussion Topic** or **Issue** rather than pushing directly.
 >
 > _See 'Pull Request' instructions at the bottom of this page._
 

@@ -38,7 +38,7 @@
 > This project is in active development and subject to breaking changes. To maintain system integrity across all domains—**Software (Code), Hardware (CAD, PCB/Schematics), and Documentation**—you must **ALWAYS** create a 'Pull Request' (PR) for any modification.
 >
 > 1.  **Main Branch Protocol:** The `main` branch is the designated "Single Source of Truth." It is reserved strictly for verified, stable, and integrated versions of the project.
-> 2.  **Review Process:** All PRs undergo compatibility review to prevent conflicts in mechanical fit, electrical connections, or software logic before merging.
+> 2.  **Review Process:** All PRs undergo compatibility review to prevent conflicts in mechanical fit, electrical connections, documentation, or software logic before merging.
 > 3.  **Assistance:** If you require a design review, debugging assistance, or validation of a new model/schematic, please submit a **Discussion Topic** or **Issue** rather than pushing directly.
 >
 > _See 'Pull Request' instructions at the bottom of this page._

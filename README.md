@@ -75,8 +75,8 @@ This repository serves as the central hub for project management, system archite
 The team is divided into specialized divisions to ensure efficient project management.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cb51819-c1a5-4266-a431-c7e0ffa34b2e" alt="Organizational Structure" width="800">
-</p>
+  <img src="https://github.com/user-attachments/assets/4d58f3af-9b75-4305-9e01-75b2926425c4" alt="Organizational Structure" width="800">
+
 
 ---
 
@@ -122,7 +122,7 @@ For permission requests, partnership inquiries, or licensing information, please
 * [Francis Mike John Camogao](https://github.com/mikeedudee)
 * [Francine May Labrador](https://github.com/franceInMay)
 * [Joevic Torrecampo](https://github.com/Cubc4)
-* [Joannah Marie Marinog](https://github.com/JoanNAH7)
+* [Sheryn Jarabe](https://github.com/ceillamariajarabe)
 * [Archie Henolos](https://github.com/Arch-eh)
 * [Hasley Angel Barlizo](https://github.com/wiwoley)
 * [Reeven Nino Bugwat](https://github.com/rehvin-yui)
